@@ -4,6 +4,7 @@
 title: 211 Hub
 url: "https://211hub.io"
 baseurl:
+app_url: "https://beta.211hub.io"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
