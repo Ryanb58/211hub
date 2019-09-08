@@ -40,10 +40,19 @@ header {
 
 		a {
 			display: inline-block;
+
+			div {
+				display: flex;
+				align-items: center;
+				flex-shrink: 0;
+				letter-spacing: -.025em;
+				font-size: 1.25rem;
+				font-weight: 600;
+			}
 		}
 
 		img {
-			display: block;
+			// display: block;
 			width: auto;
 		}
 	}
